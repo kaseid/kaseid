@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm kadar</h1>
-<h3 align="center">A Front-End Developer with a background in Economics</h3>
 
 # 💫 About Me:
-👋 I’m Kadar, an aspiring junior software developer based in Hargeisa, Somalia.<br>👀 lthough I didn’t attend CS college, I’ve always been passionate about technology and coding. To pursue my career in tech, I took a proactive approach and used Dugsiiye Mentorship Program to learn programming and also took a ton of programming courses to enhance my programming knowledge.<br>🌱 I started with foundational courses in HTML, CSS, and JavaScript, and I’m currently learning React;<br>💞️ I’m currently seeking an entry-level position where I can apply my skills and continue to grow as a developer. I’m particularly excited about joining a dynamic team that values continuous learning and innovation.
-
+👋 I’m Kadar, a self thought software developer based in Hargeisa, Somalia.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
